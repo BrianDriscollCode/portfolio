@@ -1,0 +1,3 @@
+1. Fix hero picture (change % to static updates)
+2. Fix titles in portfolio
+3. fix about picture, resize to make larger
